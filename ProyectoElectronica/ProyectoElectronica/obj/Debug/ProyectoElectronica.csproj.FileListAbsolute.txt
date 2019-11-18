@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\bin\Debug\ProyectoElectronica.exe.config
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\bin\Debug\ProyectoElectronica.exe
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\bin\Debug\ProyectoElectronica.pdb
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\obj\Debug\ProyectoElectronica.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\obj\Debug\ProyectoElectronica.Form1.resources
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\obj\Debug\ProyectoElectronica.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\obj\Debug\ProyectoElectronica.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\obj\Debug\ProyectoElectronica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\obj\Debug\ProyectoElectronica.exe
+C:\Users\USUARIO\source\repos\ProyectoElectronica\ProyectoElectronica\obj\Debug\ProyectoElectronica.pdb
