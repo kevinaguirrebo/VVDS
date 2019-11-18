@@ -14,6 +14,7 @@ namespace ProyectoElectronica
 		[STAThread]
 		static void Main()
 		{
+			//Deberias Poner el funcionamiento de cada una de estas Funciones.
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
